@@ -43,3 +43,13 @@ rake flash
 # Coding Standards
 Using clang-format as vim plugin to auto format code with LLVM coding standards.
 
+# Code Coverage
+Run code coverage:
+```
+rake gcov
+```
+Create code coverage report:
+```
+rake utils:gcov
+```
+
