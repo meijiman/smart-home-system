@@ -40,3 +40,6 @@ rake test:all
 rake flash
 ```
 
+# Coding Standards
+Using clang-format as vim plugin to auto format code with LLVM coding standards.
+
