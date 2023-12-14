@@ -1,0 +1,5 @@
+#ifndef LIGHTSCHEDULER_H
+#define LIGHTSCHEDULER_H
+
+
+#endif // LIGHTSCHEDULER_H

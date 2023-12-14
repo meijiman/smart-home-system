@@ -2,7 +2,8 @@
 #define LEDDRIVER_H
 
 #ifndef TEST
-#include "stm32f10x.h"
+#include "stm32f1xx.h"
+#include <stdbool.h>
 #else
 #include "stub_io.h"
 #endif // TEST
